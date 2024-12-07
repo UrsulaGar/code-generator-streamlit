@@ -42,7 +42,7 @@ def generate_code_with_codellama(description):
 
 
 # Streamlit app layout
-st.title("Welcome to Ursula and Marisabel's Python Code Generator with CodeLlama")
+st.title("Welcome to Ursula and Marisabel's Python Code Generator with CodeLlama c/o Dr. Lee!")
 st.write("Enter a description of the Python application or code you need. CodeLlama will generate the corresponding Python code.")
 
 # Input box for the user to enter a description
